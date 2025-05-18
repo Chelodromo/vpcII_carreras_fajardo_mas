@@ -1,3 +1,8 @@
 .ipynb_checkpoints
-
 .history/
+
+# Ignorar el zip descargado
+ds_xray.zip
+
+# Ignorar la carpeta descomprimida
+ds_xray/

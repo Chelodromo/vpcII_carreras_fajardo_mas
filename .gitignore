@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 
 .history/
-.DS_Store
+.DS_Store/
+ds_xray/

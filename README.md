@@ -2,9 +2,9 @@
 Repositorio del trabajo integrador de la asignatura VPCII - CEIA - Cohorte 18
 
 # Integrantes
-- Más Valdecantos Marcelo
-- Carreras Sebastián
-- Fajardo Lucas
+- a1811 Más Valdecantos Marcelo
+- a1826 Carreras Sebastián
+- a1806 Fajardo Lucas
 
 # Descripcion del trabajo
 - **Tipo de problema**: Detección de anomalías en escáneres de rayos X de equipajes mediante aprendizaje profundo.

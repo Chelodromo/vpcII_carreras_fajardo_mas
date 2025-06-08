@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 
 .history/
-ds_xray/*
-embeddings_df.pkl
-ds_xray.zip
+
+ds_xray/
+
+venv_gpu/
